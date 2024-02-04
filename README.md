@@ -31,8 +31,7 @@ First screen
 
 ![image](https://github.com/FrenzyExists/FunnyApp/assets/47986470/8cdf169d-d323-4dda-b49b-a92f24cda324)
 
-Also I had a hard time trying to record since my laptop ran in some issues due to low memory, so, the other two
-screens would be sort of a surprise (sorry)
+https://github.com/FrenzyExists/FunnyApp/assets/47986470/2b8ef4bf-6c02-42b8-85be-b65018c31038
 
 HINT: touch Pikachu's nose for funny surprise
 
